@@ -1,4 +1,4 @@
-# BUBBLE SORT
+# Binary search
 
 from array import *
 
