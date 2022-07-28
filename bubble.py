@@ -1,5 +1,5 @@
 # Binary search
-
+# aman
 from array import *
 
 a = array('i', [118, 4, 53, 74, 88, 35, 23, 66, 786, 4234, 23, 65645, 22, 1])
